@@ -1,0 +1,26 @@
+---
+court: "Washington Supreme Court"
+docket: "327"
+decided: "1891-10-22"
+citations: ["3 Wash. 14"]
+reporter: "wash"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Ed. Smith, Appellant."]
+source_url: "https://static.case.law/wash/3/cases/0014-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5298018
+cites_cases: ["25 Mich. 493", "26 Mich. 30", "4 McLean, 113", "40 Kan. 43"]
+---
+
+# State v. Smith
+
+## Majority (Hoyt, J.)
+
+The opinion of the court was delivered by
+Hoyt, J.
+Appellant was convicted of the crime of perjury, and from sentence therefor prosecutes this appeal. The information upon which he was convicted was substantially as follows:—
+“ Ed. Smith is accused by the prosecuting attorney of Klickitat county, State of Washington, by this information, of the crime of perjury committed as follows, to wit: That on the 11th day of June, 1891, at the county of Klickitat, State of Washington, the matter of the hereinafter mentioned affidavit became material to a matter and proceeding about to be made in and before the superior court for Klickitat county, State of Washington, for the purpose of obtaining a new trial for or the release of one Frank Hanshew, who was at said time under sentence of said court for a period of two years and six months in the State penitentiary at Walla Walla, for the crime of grand larceny committed in this county on the 3d day of June, 1891, for the stealing of a quantity of money from one Ed. Smith, defendant herein, of the value of seventy-seven dollars ($77), which sentence had been passed by said court but had not yet been signed of record by the judge of said court; which affidavit as aforesaid was on the 12th day of June, 1891, presented to the judge of said court, and filed in said court on said date; whereupon the defendant, Ed. Smith, then and there being in said county and state, did purposely, willfully, feloniously and corruptly make a solemn oath before one W. B. Presby, a duly commissioned notary public of the State of Washington, and having lawful authority under the laws of the state to administer said oath, that a certain written affidavit to which he, defendant, had subscribed, was and is true, in substance and effect, as follows : That certain money which he had heretofore accused the said Prank Hanshew of stealing from him, to wit, the sum of $77 in money, and for the larceny of which he, the said Frank Hanshew, was then under sentence so as aforesaid, had been since said sentence by him, this defendant, found in the lining of his (defendant’s) pants, and that he (defendant) must have had that money upon him in his pants, between the pants and lining, so as aforesaid during all of the time from the third day of June, 1891, until the 11th day of June of said year, at which latter date the defendant, while changing his pants, had. found; that when he went to change his pants on the 11th day of June, so as aforesaid, he held them up at the bottom, and that the money he had charged Frank Hanshew of taking fell out between the lining of the pants, and that he was positive he must have had it all the time, and that it was never stolen from him. Whereas in truth, and in fact, the said allegations contained in said written affidavit, so as aforesaid, and to which the defendant, Ed. Smith, then and there made oath to, so as aforesaid, were utterly false and untrue; and he, the said Ed. Smith, defendant herein, well knew that they were false and untrue, contrary to the form of the statute in such cases made and provided, and against' the peace and dignity of the laws of the State of Washington.”
+To this information a demurrer was seasonably interposed, and the overruling thereof is assigned as error. The only question for us to decide, then, is as to whether or not said information states facts constituting a crime. Interpreted in the light of the common law, it clearly does not. Does it under our statute ? Many of the formalities and much of the detail required at the common law in an information for perjury, has undoubtedly been made unnecessary by our statute; but we do not understand that such statute has gone so far as to make the taking of a purely voluntary oath a crime. Even under such statute, one can only be convicted of perjury for the making of a false affidavit when such affidavit is sworn to for the purpose of being used in some action or proceeding wherein by law such affidavit could be material, or by using or consenting to the use of such affidavit after having been sworn to, in such action or proceeding. Are either of these necessary facts sufficiently stated in this information ? We cannot see that they are. We are unable to find any language which clearly shows that at the time of making such affidavit it was made for the purpose of being used in the proceeding stated in the information, nor can we find that when it was so filed or used it was with the knowledge or consent of the defendant. It must follow that the crime of perjury has not been sufficiently alleged in the information.
+The judgment and sentence must be reversed, and the cause remanded for further proceedings according to law.
+Anders, O. J., and Dunbar, Stiles and Scott, JJ. concur.
