@@ -1,0 +1,47 @@
+---
+court: "Washington Supreme Court"
+docket: "36930"
+decided: "1964-03-19"
+citations: ["64 Wash. 2d 7"]
+reporter: "wash-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Comin et al., Respondents, v. Donald Jackson, Jr., Appellant."]
+source_url: "https://static.case.law/wash-2d/64/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1043174
+cites_cases: ["257 P. (2d) 633", "260 P. (2d) 327", "355 P. (2d) 994", "378 P. (2d) 290", "390 P. (2d) 250", "42 Wn. (2d) 631", "43 Wn. (2d) 94", "56 Wn. (2d) 904", "61 Wn. (2d) 286"]
+---
+
+# Comin v. Jackson
+
+## Majority (Murray, J.)
+
+Murray, J.
+This case arises from a rear end collision at 24th Street and Pacific Avenue in Tacoma. The respondents, in leading car, brought the action for car damage and personal injuries. The case was tried to a jury. The court concluded that the appellant, the following car driver, was negligent as a matter of law and submitted the question of respondents’ contributory negligence and damages. The jury found respondents guilty of contributory negligence and, accordingly, returned a verdict for appellant. On a motion for a judgment notwithstanding the verdict and in the alternative for a new trial, the court set aside the verdict, concluded as a matter of law that respondents were not guilty of contributory negligence and ordered a new trial, on the item of damages only.
+The appellant (the following driver) appeals and presents primarily two contentions.
+1. Was there a fact question for the jury on the contributory negligence of the leading car (respondents) ?
+2. Was there a fact question for the jury on the primary negligence of the following car (appellant)?
+The record shows that both cars were proceeding south on Pacific Avenue about 4:30 p.m. on Friday, March 31, 1960. It was daylight and the traffic was the usual heavy traffic for that time of day. At the intersection of Pacific Avenue and 24th Street, respondents, in the leading car, say that they came to a gradual stop on a red traffic signal and some seconds after they had stopped, they were struck from the rear by appellant’s car. The respondents’ evidence of a gradual stop was corroborated by a disinterested witness traveling east, who was waiting at the intersection for the light signal to change. That witness could not tell whether the traffic signal controlling respondents was red or green when they stopped.
+The following car driver testified in substance that he was going along with the traffic, watching the traffic lights and the cars ahead; that he was following about two-car lengths behind the preceding car; that he looked at the traffic light and it showed a green arrow and then looked down and the car ahead was making a fast stop; that he applied his brakes and swerved, but was unable to avoid the collision.
+If there is any substantial evidence of contributory negligence of the leading car, then the question is one of fact for the jury. The appellant is entitled to have such evidence and the inferences therefrom considered in its most favorable light.
+In Arnold v. Sanstol, 43 Wn. (2d) 94, 98, 260 P. (2d) 327, the court stated the rule as follows:
+“A verdict will not be set aside unless the court can say, as a matter of law, that there is neither evidence nor reasonable inference from the evidence to support the verdict. The evidence must be viewed in the light most favorable to the party against whom the motion is made. All competent evidence favorable to the party who obtained the verdict must be taken as true, and that party must be given the benefit of every favorable inference which reasonably may be drawn from the evidence. If there is substantial evidence to support the verdict, it must stand. Substantial evidence is that character of evidence which would convince an unprejudiced, thinking mind of the truth of the fact to which the evidence is directed. Rettinger v. Bresna-han, 42 Wn. (2d) 631, 633, 257 P. (2d) 633 (1953), and case cited.”
+This statement and the rule were approved and followed in Wharton v. Department of Labor & Industries, 61 Wn. (2d) 286, 378 P. (2d) 290.
+Since the issue is so precisely presented and the evidence most favorable to the appellant quite brief, it can be quoted.
+The appellant, called by respondents’ counsel, testified as follows:
+“Q. Was it traveling slowly when you first noticed it? A. Judging traveling, when you’re stopping, you’re stopping, I imagine you’re going slowly, or putting your brakes on, you’re stopping faster. I thought that he was stopping faster or I wouldn’t have hit, I imagine. . . . Q. And didn’t I ask you this [referring to a deposition]: Was this car, the Comin car that you struck in the rear — was that about stopped at the time of the impact,’ and didn’t you answer: ‘It was about stopped I would say, yes.’ ‘Question: and about stopped when you first noticed it then?’ and didn’t you answer, ‘Well, it was in the process of stopping, yes.’ . . . ” (Italics ours.)
+Patrick R. Olsen, a Tacoma police officer, called as a witness for appellant, testified in part as follows on direct examination:
+“Q. What did Mr. Comin tell you about how the accident occurred? A. He said that he was southbound on Pacific Avenue, and that he noticed the light turn amber at 24th Street, and he applied his brakes, and came to a stop, and that just as he stopped, he was struck from behind. Q. Just as he stopped he was struck from behind? A. Yes. Q. Now, Officer, did you then — did he tell you he stopped because the light was turning amber, is that right? A. That’s what he said. . . . Q. What did the defendant tell you about how the accident happened? A. He said he was following the other car, and he was southbound also on Pacific, he was about a car length and a half behind this vehicle when he noticed the left-turn signal turn amber, but that the through-traffic arrow was still green. He said the other man applied his brakes unexpectedly, he tried to stop and was unable to, and struck the rear of the other car.” (Italics ours.)
+Appellant Jackson, on direct examination:
+“Q. Understand what I’m talking about? The last block or so as you were coming up to the scene of the accident. A. Well, it was a couple of car-lengths behind, maybe a little more, a little less, just holding back. . . . Q. Now, at the time you were approaching this intersection, did you see the car of the plaintiff come to a stop? A. I saw him coming to a stop fast, what I thought was fast. Q. Describe the car to us, the attitude on the road, and so forth. A. I watched the lights, and the green arrow on ahead, and all of a sudden this car was stopping. Q. You made a motion that doesn’t go into the record. Please describe it in the record. A. His tail end came up slightly from the stop, and I swung to the left as far as I could, and applied my brakes and climbed into the back end of his car. Q. What happened to the front end of your car, in relation to the back end of his car? A. The front end of my car dipped beneath his car. . . . Q. Do you remember getting out of the car and pointing? A. Definitely. I was quite angry he stopped on a green arrow. . . . Q. I’ll ask you what you observed in relation to whether there was any reason the plaintiff stopped his car. . . . A. I could see no reason why he stopped. The green arrow was green. There was no people or cars to hinder him from going ahead. . . . ” (Italics ours.)
+At this intersection there were two signal lights controlling southbound traffic. The one over the inside lane controlled left-turning or “Seattle bound” vehicles. The other was to the west (right) controlling southbound traf-fie, either to stop (red) or proceed forward (green arrow). The uncontroverted evidence showed that when the left turn light changes to amber and then to red, the other light remains on the “green arrow” for 17 seconds. Respondent driver testified that he came to a gradual stop on an amber light which immediately precedes the red light. The appellant testified that the light for southbound traffic was on “green arrow” when respondent made a sudden stop.
+RCW 46.48.010 provides:
+“Every person operating or driving a vehicle of any character upon the public highways of this state shall operate the same in a careful and prudent manner ...”
+This statute requires reasonable care on the part of every vehicle operator. Stopping on a red light traffic signal would not present a question of contributory negligence. Brummett v. Cyr, 56 Wn. (2d) 904, 355 P. (2d) 994. Suddenly stopping on a “green arrow” through signal could present a question of reasonable care. RCW 46.48.010. If respondent driver suddenly stopped on the “green arrow” signal authorizing him to proceed, the question of whether he used reasonable care under existing traffic conditions became a fact question for the jury.
+After a consideration of the evidence most favorable to appellant and the inferences to be drawn therefrom, we conclude that a fact question was presented which must be left to the jury.
+The conclusion above stated makes it unnecessary to discuss the issue of appellant’s negligence.
+The judgment is reversed and verdict reinstated.
+Ott, C. J., Hill, Rosellini, and Hale, JJ., concur.
+April 29, 1964. Petition for rehearing denied.
+Judge Murray is serving as a judge pro tempore of the Supreme Court pursuant to Art. 4, § 2(a) (amendment 38), state constitution.
