@@ -1,0 +1,44 @@
+---
+court: "Washington Supreme Court"
+docket: "27910"
+decided: "1940-05-10"
+citations: ["4 Wash. 2d 98"]
+reporter: "wash-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Blake, C. J., Robinson, and Simpson, JJ., concur."]
+parties: ["Ed Brehm et al., Appellants, v. Retail Food and Drug Clerks Union No. 1105 et al., Respondents."]
+source_url: "https://static.case.law/wash-2d/4/cases/0098-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5280253
+cites_cases: ["102 P. (2d) 685", "114 A. L. R. 1345", "121 Wash. 595", "152 N. W. 675", "192 Wash. 179", "192 Wash. 96", "195 Wash. 160", "196 Wash. 11", "199 Wash. 527", "2 Wn. (2d) 614", "200 Wash. 51", "200 Wash. 564", "200 Wash. 659", "209 Pac. 1086", "212 Pac. 582", "30 N. D. 312", "303 U. S. 323", "48 Wash. 5", "73 P. (2d) 341", "73 P. (2d) 759", "80 P. (2d) 403", "81 P. (2d) 844", "92 P. (2d) 258", "92 Pac. 673", "93 P. (2d) 362", "94 P. (2d) 180", "94 P. (2d) 484", "99 P. (2d) 402"]
+---
+
+# Brehm v. Retail Food & Drug Clerks Union No. 1105
+
+## Majority (Main, J.)
+
+Main, J.
+By this action, the plaintiffs sought a declaratory judgment and also injunctive relief. After the action was begun, a show cause order was issued requiring the defendants to appear on a certain day and show cause why they should not be restrained from picketing the places of business of the plaintiffs, as, it is alleged, they were contemplating doing. To the complaint, a demurrer was filed. After a hearing on the return day of the show cause order, injunctive relief was denied, and the demurrer to the complaint was sustained. The plaintiffs elected to stand upon their complaint, and refused to plead further. From the judgment dismissing the action, they appeal.
+The appellants are copartners, conducting fourteen retail stores in the city of Seattle. The respondents are the Retail Food and Drug Clerks Union No. 1105,-an organizer for that union, and also the secretary-treasurer thereof. May 23, 1939, the appellants and' respondents entered into a contract, which contained this provision:
+“All sales persons except store managers must be members of the union, but the employer shall be permitted the right to hire non-members of the union, provided said non-members are eligible for membership in the union and make application within one week after employment and become members within thirty (30) days. That nothing in this contract shall be construed so as to violate the laws of the State of Washington and particularly R. R. S. Section 7612-2 to 14 thereof.”
+It will be observed that the parties had contracted that all sales persons, except store managers, should be members of the union. The complaint alleges that some members of their sales force have not become members of the union, and that others who have joinéd have allowed their dues to become in arrears. The allegation which is the basis for seeking injunctive relief is to the effect that the respondents have threatened to picket all of appellants’ places of business and to declare appellants unfair, and, unless restrained, will do so. The appellants say that they are in doubt as to their duties under the law and under the provision of the contract above quoted, and are desiious of having their rights declared by the court and an interpretation of the contract made in a number of particulars. The fifth question which they ask the court to -determine is this:
+“Is the provision of the contract quoted in this complaint void as against the public policy of the State of Washington as declared in R. R. S. 7612-2 and if so, to what extent?”
+The prayer is for declaratory relief and that the respondents be restrained from picketing the appellants’ places of business.
+Two questions are presented by the appellants upon the appeal. The first is whether injunctive relief was properly denied them by the superior court, and the second is whether the provision of the contract, above quoted, is void as against public policy.
+As to the first question, it is shown, by affidavit, that, subsequent to the taking of the appeal, all of the appellants’ employees eligible for membership in the Retail Food and Drug Clerks Union have become such, and that all of the employees, who were members prior to the hearing in the superior court and were delinquent in payment of their dues, have made satisfactory arrangements with the union to pay them. From this, it appears that there is now no controversy between the parties with reference to the employees of the appellants being or becoming members of the union. That question is now moot.
+The court will not decide a case where the controversy has ceased and there would be nothing upon which a judgment could operate. Kelso v. American Inv. & Imp. Co., 48 Wash. 5, 92 Pac. 673; Pacific Savings & Loan Ass’n v. Smith, 121 Wash. 595, 209 Pac. 1086, 212 Pac. 582; State ex rel. Layton v. Robinson, 2 Wn. (2d) 614, 99 P. (2d) 402.
+As to the second question, the appellants, under the allegations of their complaint, are, in effect, requesting this court to give them an advisory opinion. No action can be maintained under the declaratory judgment law unless it is adversary in character between parties having opposing interests, and these interests must be direct and substantial and involve an actual, as distinguished from a possible or potential, dispute. Washington Beauty College v. Huse, 195 Wash. 160, 80 P. (2d) 403; State v. Fruitland Irr. Dist., 196 Wash. 11, 81 P. (2d) 844; Inland Empire Rural Electrification v. Department of Public Service, 199 Wash. 527, 92 P. (2d) 258. An action cannot be maintained for the purpose of obtaining purely advisory opinions. Acme Finance Co. v. Huse, 192 Wash. 96, 73 P. (2d) 341, 114 A. L. R. 1345.
+The question as to whether the contract is against public policy is not now before us, and upon that question we express no opinion.
+The judgment will be affirmed.
+Blake, C. J., Robinson, and Simpson, JJ., concur.
+
+## Concurrence (Millard, J.)
+
+Millard, J.
+(specially concurring) — I agree, as we held in the cases cited in the majority opinion and in Peoples Park & Amusement Ass’n v. Anrooney, 200 Wash. 51, 93 P. (2d) 362, that an action cannot be maintained for the purpose of obtaining purely advisory opinions, but I do not agree that, because the controversy has ceased, we may not answer the question as to whether the contract is against public policy.
+In State ex rel. Yakima Amusement Co. v. Yakima County, 192 Wash. 179, 73 P. (2d) 759, we refused to grant a motion for dismissal of the appeal, which motion was upon the ground that all questions involved in the cause were moot by virtue of the payment, without protest, by appellants of all of the taxes, assessment of which the appellants attacked in that action. We agreed with respondent county that the appellants had failed to make the written protest which is a condition precedent to the maintenance of an action to recover illegal taxes. We held, however, that the question involved was of great public interest, therefore we would pass upon that question notwithstanding the fact that it had become moot. We said:
+“It has been held, however, that, when the questions involved are of great public interest, and the real merits of the controversy are unsettled, the court will consider the questions involved, notwithstanding the fact' that they have become moot O’Laughlin v. Carlson, 30 N. D. 312, 152 N. W. 675.”
+See, also, Consolidated Freight Lines v. Department of Public Service, 200 Wash. 659, 94 P. (2d) 484.
+I am of the view that the contract in the case at bar does not violate public policy of this state. The statute involved is an enactment by our legislature on a subject concerning which our legislature has seen fit to speak. That statute was copied from the NorrisLaGuardia act, Title 29, U. S. C. A. (Sup.), § 102 et seq. If the statute is constitutional, it can not be against public policy, since it is public policy.
+In Yakima v. Gorham, 200 Wash. 564, 94 P. (2d) 180, we held that the statute (Rem. Rev. Stat. (Sup.), § 7612-1 [P. C. § 3467-21] et seq., Laws of 1933, Ex. Ses., chapter 7, p. 10), which has been characterized as the state “Norris-LaGuardia act,” is valid. It does not matter whether the legislative declaration of policy is a sound policy or a good policy. It is a policy of this state established by our legislature, and it is not contrary to any provision of the state or Federal constitution. The validity of the statute involved can not be successfully challenged, in view of the opinion of the United States supreme court in Lauf v. Shinner & Co., 303 U. S. 323, 82 L. Ed. 872, 58 S. Ct. 578, that an agreement like that in the case at bar would not violate the public policy declared by statute of Wisconsin and by the Federal Norris-LaGuardia act, which are the same as our statute.
