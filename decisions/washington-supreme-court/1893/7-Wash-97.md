@@ -1,0 +1,32 @@
+---
+court: "Washington Supreme Court"
+docket: "818"
+decided: "1893-07-31"
+citations: ["7 Wash. 97"]
+reporter: "wash"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Seattle and Montana Railway Company, Appellant, v. Thomas Johnson et al., Respondents."]
+source_url: "https://static.case.law/wash/7/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5083687
+cites_cases: ["28 Pac. Rep. 538", "3 Wash. 327"]
+---
+
+# Seattle & Montana Railway Co. v. Johnson
+
+## Majority (Anders, J.)
+
+The opinion of the court was delivered by
+Anders, J.
+The appellant instituted proceedings in the superior court of King county to condemn a right-of-way for railroad purposes over certain lands owned by Thomas Johnson and Ann Johnson, his wife, in which proceeding-some thirty other parties were made defendants by reason of their having some lien upon, or interest in, said premises. A jury was empaneled to assess the damages, and a verdict was returned against the railroad company, and in favor of the defendants collectively, for the sum of $3,000. A motion for a new trial was filed by the petitioner and overruled, and some time thereafter judgment for said sum of $3,000 was entered in favor of Thomas Johnson and Ann Johnson, his wife, only.
+No appeal was taken from the judgment, and the amount of damages awarded by the jury, together with the costs of the proceeding, was paid into court by the petitioner. Subsequently, however, the railroad company filed a petition to vacate and set aside the judgment and decree of appropriation, and to substitute therefor a judgment in conformity with the verdict of the jury and the statute respecting decrees of appropriation of land in condemnation proceedings. The respondents, Thomas and Ann Johnson, filed an answer to the petition, and a hearing was had upon the petition and answer resulting in a denial by the court of the relief sought by the petitioner. From that order of the court the petitioner appealed to this court.
+No bill of exceptions or statement of facts appears in the record, and for that reason the respondents, Thomas Johnson and Ann Johnson, move to strike from the transcript all thereof except the petition of appellant to condemn the premises described íd the petition, and the deei’ee entered thereon, and also to dismiss the appeal for the same and other reasons, which, in our opinion, are not well founded. This court has heretofore held that an order denying a petition or motion to vacate a judgment is a final order in such proceeding, and therefore appealable (Northern Pacific, etc., R. R. Co. v. Black, 3 Wash. 327; 28 Pac. Rep. 538); and the appeal will not be dismissed on the ground that the order appealed from was not final.
+The objection that the notice of appeal was not served on all of the respondents may be sufficiently answered by the observation that the notice seems to have been served on all of the respondents who appeared in the proceeding, and that was all that the statute required. Code Prbc., §1406.
+The appeal cannot be dismissed on the ground that the bond is defective. If the appeal bond was deemed insufficient, a motion should have been filed in this court to discharge it in accordance with §1421 of the Code of Procedure.
+While it may be true that matters are included in the transcript which cannot be considered here for the reason that they are not embodied in a bill of exceptions or statement of facts, yet the facts legitimately in the record are sufficient to enable us to determine the only question presented for our determination, namely, the regularity of the judgment and decree; and, therefore, neither a bill of exceptions nor statement of facts was necessary. The transcript contains the petition in the condemnation proceedings, the verdict and judgment therein, the petition to vacate or modify the judgment, the answer thereto, the order denying the petition, and the notice of appeal and appeal bond, all of which, we think, must be taken to be properly in the record. It follows, therefore, that the motion to dismiss the appeal must be denied.
+That the judgment and decree of appropriation complained of is irregular and erroneous is patent upon its face. It should certainly have conformed to, and followed, the verdict of the jury as well as the statute in relation to the interest acquired by the petitioner in the premises appropriated in such' proceeding. And we see no reason why the petition of the appellant was denied, unless the learned judge of the trial court conceived that he had not the power, under the circumstances, to grant it. No injury could have been done to the respondents, in this instance, by correcting the judgment record, and we think the court had the power, and it was, therefore, its duty to do so. While we entirely agree with the suggestion of the respondents that ordinarily the allowance of amendments should not be used by the courts as a means of reviewing their decrees on the merits, or correcting their own judicial mistakes, or substituting decrees which were not rendered or intended to be rendered, we are nevertheless of the opinion that where, in cases like this, a judgment is irregular and erroneous on its face, and no other objection is made, it should be corrected on motion or petition in accordance with the statute, thereby avoiding the trouble and delay incident to an appeal.
+From what is disclosed by the record in this case, it is more than probable that the appellant might have avoided the necessity of this proceeding if it had acted more promptly, and if we could find any authority in the statute for so doing we would gladly award costs to the respondents. The court delayed the entry of judgment for several days in order to enable the appellant itself to prepare the proper entry, but it ‘ ■ sinned away its day of grace, ’ ’ and the present judgment was thereupon entered. But, as the statute applicable to this proceeding does not seem to fix the time within which applications to modify or vacate judgments shall be made, we are not now prepared to say that the appellant did not have a right to file its petition when it did.
+The order denying the petition is.reversed, and the proceeding remanded to the court below, with directions to so modify the judgment and decree complained of as to make it conform to the verdict of the jury and the statute pertaining thereto.
+Hoyt, Scott and Stiles, JJ., concur.
+Dunbar, C. J., dissents.
