@@ -1,0 +1,27 @@
+---
+court: "Washington Supreme Court"
+docket: "1632"
+decided: "1895-01-25"
+citations: ["11 Wash. 8"]
+reporter: "wash"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles A. Field, Appellant, v. J. H. Greiner et al., Respondents."]
+source_url: "https://static.case.law/wash/11/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 780338
+---
+
+# Field v. Greiner
+
+## Majority (Hoyt, C. J.)
+
+The opinion of the court was delivered by
+Hoyt, C. J.
+In an action upon a promissory note made by the defendant, J. H. Greiner, judgment was rendered in favor of the plaintiff for the amount of the note and interest. It was further adjudicated therein that such judgment could be enforced against the community property of said Greiner and wife. An execution was duly issued to enforce the judgment. Thereafter, supplemental proceedings were commenced under the provisions of §§ 522-528, Code Proc. In the affidavit upon which such proceedings were founded it was alleged that the defendants had property which they unjustly refused to apply towards the satisfaction of the judgment. The defendants appeared in the proceedings, and denied the material allegations of the affidavit. The issues thus made were tried before a jury, which by its special verdict found that of two pieces of property as to which evidence was introduced, both of which stood in the name of the wife, one was her separate estate, and the other community property. Upon such verdict it was adjudged that the piece owned by the community should be applied towards the satisfaction of the judgment. Thereafter, execution was issued and levied upon this piece, and sale thereof made and duly reported to the court. When such report came before the court for confirmation the defendants appeared and objected to such confirmation, and moved that the sale be set aside for the reason that the property in question was their homestead, selected and occupied as such. The court sustained their objections to confirmation,and made an order setting aside the sale. From such order plaintiff has appealed to this court.
+Respondents move to dismiss the appeal for the reason that it was not taken in time, but the conclusion to which we have come as to the merits of the controversy makes it unnecessary for us to decide the questions raised by the motion.
+It is claimed by the appellant that the proceedings supplemental to execution, and the order and judgment of the court rendered thereon, conclusively established the fact that this piece of property should be applied towards the satisfaction of his judgment. The respondents contend that such proceedings are not in the nature of an independent action, but are simply in aid of the process issued, or to be issued, upon the principal judgment; that the only object of the proceedings is to ascertain what property is so held that it can be rightfully levied upon to satisfy the judgment to which the proceedings are supplemental.
+The contention of the respondents must be sustained. The proceedings supplemental to execution are mainly for the purpose of discovery, and it cannot be successfully contended that the general lien upon real property flowing from the judgment is thereby converted into a specific lien upon any particular property. The most that can be rightfully adjudicated in such proceedings as to real estate is as to who is the owner thereof. And it may well be questioned whether or not the proceedings have any application to real property. However this may be, its application- to such property, if it has any, can only be as above stated.
+The most that the order made in the proceedings could be held to have conclusively decided was, that the property in question was that of the community. It was to this question that the proofs were directed. And the court had no authority to adjudicate any other. Hence the defendants could not be- deprived of their homestead rights by any attempted adjudication in the proceedings. If it was the separate property of the wife, there was no need of the assertion of homestead rights to prevent its being sold to satisfy the judgment, and for that reason it was not necessary for the defendants to assert such rights until it had been adjudicated that it was the property of the community. If the contention of the appellant could be sustained at all, it would be by reason of the fact that the order appealed from in itself constituted a judgment upon which the property could be sold. And if that was so, such order should have stated the amount to be realized, and such amount should have been made by virtue of process issued to enforce such order. The order entered was insufficient for this purpose, and the execution under which the sale was made was issued upon the principal judgment. When the execution so issued was levied upon the property, it was within the power of the respondents to prevent a sale thereof by selecting it as a homestead, and it is not questioned but that the necessary steps for that purpose had been or were taken.
+It follows that after such selection the property could not be sold except in such a manner as to protect the homestead rights of the respondents. This was the conclusion to which the superior court arrived, and the order appealed from must be affirmed.
+Scott, Dunbar, Anders and Gordon, JJ., concur.
