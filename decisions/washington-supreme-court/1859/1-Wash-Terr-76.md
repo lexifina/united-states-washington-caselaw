@@ -1,7 +1,8 @@
 ---
 court: "Washington Supreme Court"
 decided: "1859-12"
-citations: ["1 Wash. Terr. 76", "1 Wash. Terr. 75"]
+decided_precision: "month"
+citations: ["1 Wash. Terr. 76"]
 reporter: "wash-terr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
