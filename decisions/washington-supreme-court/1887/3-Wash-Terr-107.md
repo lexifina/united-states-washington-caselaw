@@ -1,0 +1,26 @@
+---
+court: "Washington Supreme Court"
+decided: "1887-01-28"
+citations: ["3 Wash. Terr. 107"]
+reporter: "wash-terr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["D. J. CHAMBERS v. DANIEL HOOVER."]
+source_url: "https://static.case.law/wash-terr/3/cases/0107-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 286982
+cites_cases: ["10 R. I. 355", "11 Ill. 92", "17 Wend. 261", "18 Ala. 600", "19 Cal. 374", "2 Abb. 479", "20 Am. Dec. 575", "23 Cal. 375", "4 Ohio, 374", "5 Cal. 156", "51 Ga. 268", "57 Iowa, 356", "6 Pet. 8", "6 Pet. 9", "8 Ohio St. 257"]
+---
+
+# Chambers v. Hoover
+
+## Majority (Mr. Justice Tuenee)
+
+Mr. Justice Tuenee
+delivered the opinion of the court.
+The only error assigned in the record is the action of the court below in sustaining a demurrer to the complaint, on the ground that it failed to state a cause of action. The complaint reads as follows: “Plaintiff complains of defendant, and for cause of action alleges that at all times hereinafter mentioned the plaintiff was and now is the owner of certain premises situate in Thurston County, Washington Territory, and more particularly described as that certain piece of land lying adjacent to and south of Chambers’s Prairie, and known as that portion of the Guthrie donation claim lying west of the county road; that on the tenth day of March, 1884, this plaintiff leased said premises to defendant by written lease, which said lease was not witnessed or acknowledged; that by the terms of said lease it was provided that if either party became dissatisfied at any time, the lease should be terminated by the giving of one month’s notice at the end of the year to terminate said lease. The plaintiff, being dissatisfied with the defendant, did, on or about the-day of November, 1884, give to the defendant verbal notice to terminate said lease and vacate said premises at the ending of the first year of said lease, and did on the ninth day of February, 1885, give to defendant written notice to so terminate said lease at the end of the year, and to vacate said premises by the twenty-eighth day of March, 1885; that said lease-was made and entered into the tenth day of March, 1884, and the first year ended on the tenth day of March, 1885; that defendant has not vacated said premises or surrendered the same, and forcibly detains possession of said premises from plaintiff; that by reason of said forcible detainer by defendant, plaintiff has suffered damage in the sum of fifty dollars.”
+The averments of this pleading are vague and indefinite, and it is defective in other respects; yet, when bolstered by the rule of liberal construction commanded by the Code, we think we discern a cause of action. A suitor is no longer to be turned out of court, if by making all reasonable intendments in his favor enough can be seized hold of in his pleadings to show that he has rights which ought to be enforced. He may be required .on motion to conform his statement to the rules of good pleading, and if he refuse, may be turned out of court; but as against a demurrer, the office of which is to raise a substantial issue on the law of the case, and not on the law of practice and pleading, evidentiary facts, and even inferences from averments amounting to mere conclusions of law, will be considered in his favor.
+Bearing these principles in mind, and applying them to this pleading, we are enabled to see that the plaintiff,, by an instrument in writing not witnessed or acknowledged, leased the premises described in the complaint to-the defendant for at least one year, and probably for a longer period, and that the defendant went into possession under said lease; that the plaintiff had the option under-said lease of terminating the tenancy at the end of one-year, by giving the defendant one month’s notice to that effect; that the plaintiff did give notice to terminate the-tenancy one month and more prior to the end of the-year, and that the defendant has since failed and refused to vacate the premises. If effect is to be given to the; lease pleaded, then clearly the defendant is holding over unlawfully after the termination of his right, and the plaintiff is entitled to recover the possession under the chapter relating to forcible entry and detainer. (Code, secs. 1837, 2058.) If the lease is ineffective for any purpose, because, being for a longer period than one year, it is not witnessed and acknowledged, then the defendant was a tenant at will or by sufferance, and the notice to quit averred in the complaint was efficacious to terminate that tenancy equally with a tenancy under the lease. It is manifest that the lease, if its terms do not govern the right of plaintiff to terminate the tenancy, does not govern the terms of payment of rent so as to create a period before the end of which, agreeably to the provisions of section 2054 of the Code, the plaintiff would be powerless to terminate the tenancy.
+We find no warrant in the Code for the idea advanced by counsel for the appellee, that a formal averment to the effect that the defendant unlawfully holds the premises by force is necessary in such a case as this.
+Judgment reversed, and cause remanded for a new trial.
+Greene, C. J., and Langeord, J., concurred.
