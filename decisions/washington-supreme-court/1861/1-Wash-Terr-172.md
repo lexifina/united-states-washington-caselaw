@@ -1,0 +1,29 @@
+---
+court: "Washington Supreme Court"
+decided: "1861-12"
+citations: ["1 Wash. Terr. 172"]
+reporter: "wash-terr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Hogue vs. Sheriff of Lewis County, et al."]
+source_url: "https://static.case.law/wash-terr/1/cases/0172-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 784334
+---
+
+# Hogue v. Sheriff of Lewis County
+
+## Majority (Hewitt, Chief Justice.)
+
+Opinion by
+Hewitt, Chief Justice.
+This case comes up on appeal from the Second Judicial District. It appears by the record and agreed statement, that a man named Cooper leased of Judson, the defendant, a certain farm in Lewis county, said lease to expire on the 23d day of September, 1860; that prior to June of that year, Cooper left the country, leaving Judson as his agent. In June of the same year, Judson, as such agent of Cooper, contracted with John Hogue, the plaintiff, to harvest and thrash the entire amount of wheat and oats growing on said premises belonging to said Cooper, amounting in all to three thousand one hundred and thirty-nine bushels of wheat, and eight hundred and eighty-seven bushels of oats. That the contract on the part of plaintiff was completed the latter part of October following, and the grain stored in a barn on the premises in possession of Wilson Sargent, by direction of Judson. That within three months from the time of storing the grain in the barn of Sargent, plaintiff advertised the property for sale under the lien law.
+In the meantime, on the 5th day of November, and prior to plaintiff advertising the property for sale, a writ of attachment was sued out by Judson and levied on the same property, and before the expiration of the time plaintiff claims the law entitled him to the possession thereof. It is also admitted by agreed statement of the parties, that early in November, Hogue demanded of Judson a bill of sale of the wheat to secure himself, and upon Judson’s refusal, Hogue said he would secure himself on it, and if he, Judson, did not turn out wheat to pay him before he left, he would attach it.
+The first question presented in this ease is this: Was Hogue entitled to a lien? or in other words, was the labor and expense bestowed by him on that kind of property such that a lien would attach under our statutes?
+Seeond. If a lien did attach by virtue of the statute, did Hogue divest himself of it by any subsequent act?
+The statute of liens on personal property, page 394, Sec. 10, laws of 1854, re-print of 1859-60, page 287, Sec. 10, provides that “any person who shall bestow labor on any article of personal property, at the request of the owner thereof, shall have a lien on such property for his just and reasonable charges for the labor he has performed, and such person may hold and retain possession of the same until such just and reasonable charges are paid.” Sec. 12 of the same statute provides that the lien so acquired shall continue for three months, and also the manner of sale.
+It is evident from the language of the statute above referred to, that the Legislature intended, in their wisdom and in accordance with the genius of our institutions and the enlightened progress of the age, to favor the laboring classes by giving them a lien in cases of this kind; and unless there be something in the contract or in the nature of the transaction, such as taking a promissory note, granting time or the like, going to show that the plaintiff did not look to the property for a reimbursement for his labor and expense bestowed thereon, and nothing of that kind appearing in the case under consideration, we are therefore clearly of the opinion that the lien of plaintiff did attach.
+The agreed statement shows that Hogue intended to look to the property for payment of his labor bestowed on it. Cooper, who owned the wheat and oats, was absent, and had been, so far as appears, since prior to June, when the contract.was made.. The contract was not completed until the latter part of October following, and early in November we find the plaintiff demanding of Judson, the agent of Cooper, the same wheat as indemnity for his labor. At that time plaintiff might or might not have known he had a legal and subsisting claim on the property; yet if he ever had such claim, and had not divested hiinself of it within the time prescribed by law, it would still be valid. •
+We now come to the consideration of the second proposition, to-wit: If Hogue acquired a lien on the property, did he, by any subsequent act, divest himself of it? We have already seen that plaintiff put the grain in the barn on the premises, then in possession of Sargent, who held under a- lease from Judson, the attaching creditor.
+"Was that such a parting with possession as would defeat the lien of plaintiff? We think not, as between the parties. It was undoubtedly put there for convenience, and it does not appear to have been any more under the control of Judson than of plaintiff, and besides, but a few days had elapsed from the time the grain was stored before we find the plaintiff demanding indemnity on the wheat, and before the expiration of the time allowed by law, he advertised the same for sale according to the provisions of Sec. 12 of the act before referred to, but not until after it had been attached by Judson. How if Judson had been an innocent purchaser while the property was in the situation described, he undoubtedly would have been protected. But such was not the case. So far as appears, he sued on a preexisting debt, with full knowledge of all the facts and circumstances, and his lien, by virtue of the attachment, could only hold the property subject to the lien of plaintiff.
+The judgment, therefore, of the District Court is reversed, with costs, and it is hereby ordered that mandate issue to that Court in accordance herewith.
