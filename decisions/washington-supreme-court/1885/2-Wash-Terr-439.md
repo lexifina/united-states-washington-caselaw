@@ -1,7 +1,8 @@
 ---
 court: "Washington Supreme Court"
 decided: "1885-07"
-citations: ["2 Wash. Terr. 439", "2 Wash. Terr. 362"]
+decided_precision: "month"
+citations: ["2 Wash. Terr. 439"]
 reporter: "wash-terr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["HOLLON PARKER, Appellant, v. GEORGE DACRES, H. P. ISAACS, ALFRED THOM
 source_url: "https://static.case.law/wash-terr/2/cases/0439-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1825971
-cites_cases: ["1 Wis. 527", "10 Mich. 169", "10 Wend. 395", "10 Wheat, 168", "10 Wheat. 168", "11 Allen, 584", "12 Iowa, 576", "13 Iowa, 296", "13 Wis. 264", "14 Cal. Rep. 54", "15 Ill. 97", "15 Nev. 450", "17 Ia. 158", "17 Ill. 259", "19 Pick. 535", "2 Cal. 595", "2 Cow. 518", "2 Dall. 302", "2 Mass. 170", "2 Verm. 138", "2 Wall. 177", "20 Me. 269", "21 Cal. 108", "21 Cal. 392", "21 Cal. 425", "22 Wis. 147", "24 Ill. 525", "3 Johns Ch. 129", "3 Or. 129", "3 Pac. Rep. 798", "3 Serg & Rawle, 184", "31 Cal. 173", "32 Ohio St., 49", "34 Conn. 60", "34 N. J. L. 496", "34 N. Y. 235", "35 Am. Dec. 575", "35 Pa. St. 140", "37 N. Y. 643", "4 Dall. 134", "4 Ill., 3", "4 Johns Ch. 140", "4 Mass. 460", "4 Minn. 483", "4 Wend, 512", "41 Cal. 420", "41 How. Pr. 355", "41 Mo. 453", "42 N. J. L. 476", "43 N. Y. 469", "43 N. Y. 474", "47 Iowa, 180", "5 Conn. 361", "5 Or. 322", "5 Pac. Rep. 569", "5 Pac. Rep. 815", "50 Ill., 274", "50 N. Y. Rep. 468", "56 Am. Dec. 331", "60 N. Y. Rep. 887", "7 Iowa 114", "7 Pac. Rep. 120", "8 Wall. 318", "80 Ill. 447", "87 Ill. 513", "9 Cal. 365", "9 Ill. App. 100", "9 Iowa, 114", "91 Ill. 417"]
+cites_cases: ["1 Wis. 527", "10 Mich. 169", "10 Wend. 395", "10 Wheat, 168", "10 Wheat. 168", "11 Allen, 584", "12 Iowa, 576", "13 Iowa, 296", "13 Wis. 264", "14 Cal. Rep. 54", "15 Ill. 97", "17 Ia. 158", "17 Ill. 259", "19 Pick. 535", "2 Cal. 595", "2 Cow. 518", "2 Dall. 302", "2 Mass. 170", "2 Verm. 138", "2 Wall. 177", "20 Me. 269", "21 Cal. 108", "21 Cal. 392", "22 Wis. 147", "24 Ill. 525", "3 Johns Ch. 129", "3 Or. 129", "3 Serg & Rawle, 184", "31 Cal. 173", "32 Ohio St., 49", "34 Conn. 60", "34 N. J. L. 496", "34 N. Y. 235", "35 Am. Dec. 575", "35 Pa. St. 140", "37 N. Y. 643", "4 Dall. 134", "4 Ill., 3", "4 Johns Ch. 140", "4 Mass. 460", "4 Minn. 483", "4 Wend, 512", "41 Cal. 420", "41 How. Pr. 355", "41 Mo. 453", "42 N. J. L. 476", "43 N. Y. 469", "43 N. Y. 474", "47 Iowa, 180", "5 Conn. 361", "5 Or. 322", "50 Ill., 274", "50 N. Y. Rep. 468", "56 Am. Dec. 331", "60 N. Y. Rep. 887", "7 Iowa 114", "8 Wall. 318", "80 Ill. 447", "87 Ill. 513", "9 Cal. 365", "9 Ill. App. 100", "9 Iowa, 114", "91 Ill. 417"]
 ---
 
 # Parker v. Dacres
