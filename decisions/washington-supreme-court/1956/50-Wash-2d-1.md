@@ -2,7 +2,7 @@
 court: "Washington Supreme Court"
 docket: "33528"
 decided: "1956-05-24"
-citations: ["50 Wash. 2d 1", "49 Wash. 2d 912"]
+citations: ["50 Wash. 2d 1"]
 reporter: "wash-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
