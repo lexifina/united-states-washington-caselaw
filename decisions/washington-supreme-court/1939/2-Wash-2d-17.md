@@ -1,0 +1,32 @@
+---
+court: "Washington Supreme Court"
+docket: "27773"
+decided: "1939-12-19"
+citations: ["2 Wash. 2d 17"]
+reporter: "wash-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. W. Pat Rooney, Appellant."]
+source_url: "https://static.case.law/wash-2d/2/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5266478
+cites_cases: ["114 Pac. 449", "118 Pac. 9", "120 Pac. 102", "121 Pac. 989", "128 Wash. 419", "133 Pac. 1014", "154 Wash. 667", "223 Pac. 9", "283 Pac. 195", "62 Wash. 635", "65 Wash. 244", "66 Wash. 537", "67 Wash. 502", "74 Wash. 510", "97 P. (2d) 156"]
+---
+
+# State v. Rooney
+
+## Majority (Main, J.)
+
+Main, J.
+W. Pat Rooney, a member of the board of county commissioners of Spokane county, was charged by indictment with the crime of bribery. In the indictment, there were eight counts, separately stated, all of which were in the same language, except as to dates, amounts, and persons. The charging part of count I was as follows:
+“That said W. Pat Rooney, in the county of Spokane, state of Washington, on or about the 15th day of December, 1937, being then and there an executive and administrative officer of Spokane county, state of Washington, duly elected, qualified and acting as such, to-wit: a county commissioner, and as such, under the provisions of Chapter 180 of the Laws of Washington for 1937, then and there had pending before him and to be brought before him in his official capacity the selection of certain restaurants where single persons receiving public assistance would be sent for meals to be paid for direct to the owners or proprietors of said restaurants from public funds, and the said W. Pat Rooney, as said county officer, exercised the authority to designate and select the restaurants to which said indigent persons were to be sent to receive said meals, and he, the said W. Pat Rooney, did then and there fraudulently, corruptly, willfully, unlawfully and feloniously, directly and indirectly, ask for and receive from one Clyde Stewart, who was then and there the proprietor of a restaurant in the city of Spokane, Washington, the sum of Twenty-five Dollars ($25.00) in lawful money of the United States as a gratuity, compensation and reward, upon an agreement and understanding then and there by the said W. Pat Rooney that his vote, opinion and action upon the selection of a restaurant, as aforesaid, and the number of said indigent persons to be sent thereto for meals would be influenced thereby.”
+Each of the counts was demurred to. All of the demurrers were overruled. The jury, with two alternates, was impaneled and sworn to try the cause at about five o’clock p. m. on June 21, 1939.
+The following morning, out of the presence of the jury, the appellant’s then counsel moved the court to quash the panel, basing his motion on a conversation that he had had with W. N. Simanton, in which the latter claimed that he heard one of the jurors make certain derogatory remarks relative to the accused prior to the time he had been selected as a juror. The matter first came to the attention of the attorney subsequent to the adjournment of court the previous evening. This motion was denied, the court stating that, if the accused was convicted, the matter could be raised on a motion for a new trial.
+At the conclusion of the trial, the accused was convicted upon all of the counts. He moved for a new trial. One of the grounds was the claim that two of the jurors, sometime before the case was called for trial, made statements which indicated a bias or prejudice against the accused. This motion was supported and resisted by affidavits. The trial court denied the motion, and, from the judgment and sentence, the accused appealed.
+It is first claimed that the indictment was not sufficiently definite to comply with the requirements of Rem. Rev. Stat., § 2055 [P. C. § 9268], which provides, in part, that the indictment or information must contain a statement of the acts constituting the offense, in ordinary and concise language, “and in such manner as to enable a person of common understanding to know what is intended.” The particular objection to the indictment is the joining of the words “directly” and “indirectly” with the conjunctive “and.” The statute defining the crime of bribery uses the same words with the disjunctive. Where a single offense may be committed in different ways or by different means, that offense may be charged in the information or indictment to have been committed by more than one of the ways or means, provided the ways or means charged are not repugnant to each other. State v. Pettit, 74 Wash. 510, 133 Pac. 1014. An indictment or information may employ the conjunctive “and” where the statute uses “or,” and it will not be subject to demurrer on the ground that the charge is not sufficient to inform the accused of what he is charged. State v. Wappenstein, 67 Wash. 502, 121 Pac. 989; State v. Mayer, 154 Wash. 667, 283 Pac. 195. The demurrers in the case now before us were properly overruled.
+Inasmuch as the question of the bias or prejudice of the two jurors was tried out on the motion for new trial, we will pass the motion to quash the panel with the statement that the trial court ruled correctly on that motion.
+Upon the hearing of the motion for new trial, Simanton made an affidavit which contained certain statements that he said he heard the two jurors make, which indicated, if true, bias or prejudice against the appellant. Each of the jurors unequivocally denied that they had made the statements with which they were charged. The other affidavits filed did not bear directly upon the issue and will not be further referred to.
+The question presented was one of fact for the trial court to determine and presented a matter which rested largely in the discretion of that court. The ruling of the trial court upon the matter will not be disturbed upon appeal in the absence of a showing of an abuse of discretion. State v. Welty, 65 Wash. 244, 118 Pac. 9; State v. Moretti, 66 Wash. 537, 120 Pac. 102. There is some presumption in favor of the integrity of the jury. State v. Pepoon, 62 Wash. 635, 114 Pac. 449; State v. Adamo, 128 Wash. 419, 223 Pac. 9.
+We are in accord with the view of the trial court that there was no basis of fact upon which to rest the charge against either of the jurors.
+The judgment will be affirmed.
+Blake, C. J., Beals, Robinson, and Simpson, JJ., concur.
