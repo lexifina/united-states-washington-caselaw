@@ -1,0 +1,50 @@
+---
+court: "Washington Supreme Court"
+docket: "37716"
+decided: "1966-12-22"
+citations: ["70 Wash. 2d 1"]
+reporter: "wash-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jack Schroeder, Appellant, v. William Louie Taylor et al., Respondents, National Car Rental System, Inc., Defendant."]
+source_url: "https://static.case.law/wash-2d/70/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1060151
+cites_cases: ["1 P.2d 301", "163 Wash. 254", "208 P.2d 143", "250 P.2d 546", "274 P.2d 583", "281 P.2d 236", "281 P.2d 462", "34 Wn.2d 1", "374 P.2d 177", "375 P.2d 487", "41 Wn.2d 495", "410 P.2d 802", "411 P.2d 411", "415 P.2d 496", "422 P.2d 21", "45 Wn.2d 337", "46 Wn.2d 317", "46 Wn.2d 358", "47 Wn.2d 323", "60 Wn. 2d 372", "60 Wn.2d 745", "65 Wn.2d 553", "67 Wn.2d 903", "68 Wn.2d 50", "68 Wn.2d 726"]
+---
+
+# Schroeder v. Taylor
+
+## Majority (Ott, J. —)
+
+Ott, J. —
+At about 2 a.m. on October 12, 1961, Jack Schroeder was driving his automobile in an easterly direction on U. S. Highway No. 10 near Seattle. He had just crossed the floating bridge when a blowout occurred in the left front tire of his automobile. He stopped in the right-hand outside lane of the highway. The roadway was well lighted, and it was raining. A divider strip separated the two eastbound lanes from the two westbound lanes. There was a safety island off the traveled portion of the highway, near the place where Mr. Schroeder brought his automobile to a stop.
+While he was engaged in changing the flat tire, his automobile was struck in the rear by an automobile being driven by William L. Taylor. The impact injured Mr. Schroeder and damaged his automobile. He brought this action to recover damages, contending that Mr. Taylor was guilty of negligence in several particulars.
+Mr. Taylor answered the complaint, denied negligence, and contended that Mr. Schroeder was guilty of contributory negligence in stopping on the highway in violation of RCW 46.48.290, which provides:
+It shall be unlawful for any person to stop, park or leave standing any vehicle, whether attended or unattended, upon the paved, improved or main traveled portion of any public highway outside incorporated cities and towns when it is possible to stop, park, or so leave such vehicle off such paved, improved or main traveled portion of such public highway. In the event that it is not possible to leave such vehicle standing off the paved, improved or main traveled portion of such public highway at least one half of the width of such roadway shall be left clear and unobstructed for the free passage of other vehicles and a clear view of such stopped vehicle shall be available for a distance of three hundred feet in each direction upon such public highway: Provided, That this section shall not apply to the operator of any vehicle which is disabled upon the paved or improved or main traveled portion of any public highway in such a manner and to such an extent that it is impossible to avoid stopping and temporarily leaving such vehicle in such position.
+The cause was tried to the court, sitting with a jury. The court instructed the jury that the plaintiff Schroeder was guilty of negligence, as a matter of law. The court also instructed the jury that, if they found defendant Taylor guilty of negligence, the plaintiff, regardless of his contributory negligence, could recover if they found that the defendant had a last clear chance to avoid the accident.
+The jury returned a verdict for the plaintiff. Defendant moved for judgment notwithstanding the verdict. The trial court granted the motion upon the ground that it had committed error in instructing the jury on the doctrine of last clear chance, and entered judgment for the defendant. Plaintiff appealed.
+Appellant contends that the court erred (1) in instructing the jury that the plaintiff was guilty of negligence, as a matter of law, and (2) in granting judgment notwithstanding the verdict.
+In perfecting the appeal, the appellant has brought to this court a partial record, which contains two exhibits, a summary of appellant’s testimony, and verbatim statements of various witnesses, together with the court’s instructions and the exceptions thereto.
+Relative to appellant’s contention that the court erred in instructing the jury that appellant was guilty of contributory negligence, as a matter of law, the instruction is not set out in full in appellant’s brief, as required by Rule on Appeal 43, RCW vol. O. Therefore, this court will not consider the alleged error. State v. Badda, 68 Wn.2d 50, 56, 411 P.2d 411 (1966), and cases cited; Rank v. Alaska S.S. Co., 45 Wn.2d 337, 339, 274 P.2d 583 (1954); Lund v. Seattle, 163 Wash. 254, 265, 1 P.2d 301 (1931).
+Appellant’s next contention is that the court erred in granting judgment notwithstanding the verdict. Appellant asserts that the instruction on the doctrine of last clear chance was proper.
+We have often said that it is error to give an instruction if there is no substantial evidence upon which it can be predicated. Izett v. Walker, 67 Wn.2d 903, 910, 410 P.2d 802 (1966); Albin v. National Bank of Commerce of Seattle, 60 Wn.2d 745, 754, 375 P.2d 487 (1962), and cases cited.
+The burden of proof necessary to establish last clear chance rests upon the party who asserts it.
+The appellant, in his partial record, summarizes his own testimony as follows:
+Mr. Schroeder testified that he did not remember anything about the accident other than what had been told him. He did remember working the day before and, after the accident, his first memory was looking at a clock at 10 minutes after 8:00 the next morning in the hospital; that he does not remember where he was shortly prior to the accident; that he does not remember talking to Officer Dokken at the scene of the accident or seeing Officer Dokken at all prior to the day of trial.
+Over defendants’ objection that such was irrelevant, incompetent and immaterial, Mr. Schroeder was permitted to testify in response to his counsel’s question that it was his habit to have his lights turned on when driving at night.
+He testified that he hardly ever drank more than three or four beers at any one time because he had an ulcer and that he never drunk hard liquor.
+In addition to his testimony, appellant’s only evidence relating to liability was that of an engineer, who stated that it was possible to see for a distance of 300 feet at that time of night.
+In Felder v. Tacoma, 68 Wn.2d 726, 731, 415 P.2d 496 (1966), this court stated the rule of last clear chance to be as follows:
+The rule of last clear chance, as applied in Washington, has two phases. In the first, plaintiff’s negligence may continue up to the time of impact if the defendant actually sees the peril; in the second, the plaintiff’s negligence must have terminated or culminated in a situation of peril from which the plaintiff could not, by the exercise of reasonable care, extricate himself if the defendant did not actually see the peril, but by the exercise of reasonable diligence, should have seen it. Thompson v. Titus Motor Co., 60 Wn. 2d 372, 374 P.2d 177 (1962); Coins v. Washington Motor Coach Co., 34 Wn.2d 1, 208 P.2d 143 (1949).
+Appellant’s evidence to sustain the first phase was merely that one could see for a distance of 300 feet. This evidence alone does not meet the test, which requires that the driver of the following automobile must “actually see the peril.” The fact that a driver could have seen or “ought to have seen the peril in time to prevent the collision does not raise an inference that he actually did see it.” Felder v. Tacoma, supra, at 724.
+We conclude that appellant’s evidence was not sufficient to submit to the jury the first phase of the doctrine of last clear chance.
+The respondent’s evidence was that, as he approached, he actually saw appellant’s automobile from a distance of 125 feet, and saw appellant standing on the center line of the highway. Respondent was traveling 55 miles an hour. He applied the brakes, but was unable to avoid the collision.
+The investigating officer testified that, due to the wet condition of the highway, one traveling at the rate of 55 miles an hour could not stop in 125 feet (11/2 seconds).
+The fact that respondent, when confronted with this sudden emergency, elected to try to stop rather than swerve his automobile to the left, establishes only that he may have had a possible chance to avoid the accident by swerving.
+We have often said that an instruction on last clear chance should not be given if the evidence merely established that it was possible for the defendant to have avoided the accident. Possibility of avoidance is not the test. Sonnenberg v. Remsing, 65 Wn.2d 553, 558, 398, P.2d 728 (1965), and cases cited; Stokes v. Johnstone, 47 Wn.2d 323, 325, 287, P.2d 472 (1955), and case cited; Barrett v. Inglin, 46 Wn.2d 317, 320, 281 P.2d 236 (1955), and cases cited. The defendant must have had a clear chance to have avoided the accident. In the instant case, the fact that respondent chose a method which failed does not invoke the applicability of the doctrine. Roloff v. Bailey, 46 Wn.2d 358, 361, 281 P.2d 462 (1955).
+The second phase of the doctrine of last clear chance is not here applicable (1) because appellant’s negligence had not terminated, and (2) because the evidence established that the appellant, by the exercise of reasonable diligence, could have driven his automobile a few feet further to the safety island, and thus it would not have been “in a situation of peril.”
+Whether the doctrine of last clear chance should have been presented to the jury is a question of law. McCormick v. Gilbertson, 41 Wn.2d 495, 497, 250 P.2d 546 (1952), and case cited. Our review of the record convinces us that the appellant failed to establish, by substantial evidence, that the doctrine of last clear chance was here apropos.
+We find no merit in appellant’s assignments of error.
+The judgment is affirmed.
+Rosellini, C. J., Hill and Hale, JJ., and Langenbach, J. Pro Tern., concur.
