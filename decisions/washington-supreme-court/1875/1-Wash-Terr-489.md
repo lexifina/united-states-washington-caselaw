@@ -1,0 +1,148 @@
+---
+court: "Washington Supreme Court"
+decided: "1875-07"
+citations: ["1 Wash. Terr. 489"]
+reporter: "wash-terr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Abraham Garrison vs. Wm. B. Cheeney."]
+source_url: "https://static.case.law/wash-terr/1/cases/0489-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 784314
+cites_cases: ["18 Wall., 350", "9 H., 336"]
+---
+
+# Garrison v. Cheeney
+
+## Majority (Lewis, Chief Justice.)
+
+Opinion on motion to dismiss, by
+Lewis, Chief Justice.
+The bill in this cause was filed sometime in the fall of 1872.
+The decree was rendered August 19th, 1873.
+During the time of the proceedings in the District court to decree, the code of 1869, as amended in 1871, was in force.
+Section 2, of code of 1869, abolishes all distinctions between law and equity, and declares that there shall be but one form of action, to be called a civil action.
+Section 432 declares that every final judgment of district court, in a civil action, may be re-examined; upon a writ of error, in the Supreme court, for error of law. * * The writ shall be taken within three months after final judgment: Provided, That if the party entitled to the writ shall be absent from the Territory, and shall not be served with process, personally, * * the writ may be made returnable at next term, after removal of disability.
+Under the provisions, therefore, of the code of 1869;* all actions to enforce private rights were called civil.actions-, and final judgments, in all civil actions, were to be re-examined in this court by writ of error.
+The term, civil actions, under that code, included actions at law and suits in equity, and all proceedings in civil actions were to be conducted in accordánce with the provisions of the code; appellate as well as original.
+In 1871 a radical change was made, in our code'of 1869; Section 2 was amended, so as to read thus: “All common law forms of action- are hereby abolished, but the distinction between actions at law, and suits in chancery shall bé preserved, and pleadings and proceedings in actions at law shall be as prescribed in this act, and pleadings and proceedings in suits in chancery shall be as prescribed by laws of the United States,, and by the rules prescribed by the Supreme court of the United. States, for courts of. equity of the United States.”
+Now this declaration, that the pleadings and proceedings in actions at law shall be as prescribed by this act, of course refers to code of 1869, as amended in 1871, which is, in terms, an act to regulate the practice and proceedings in civil actions, and, in the absence of the latter part of the section, this code would also regulate the practice in suits in equity.
+But the declaration is plain and positive, not only that the distinction between actions at law and suits in chancery shall be preserved, but in addition, it is declared, that the pleadings and proceedings in suits in chancery shall be as prescribed by the laws of the United States, and the rules of the United States .Supreme court for courts of equity of the United States.
+'The legislature, by this amendment of Section 2, adopted the laws of the United States and rules for equity courts of the United States, as the sole and only law, in [pleadings and proceedings, in equity, in this Territory; and the provisions of the code were applicable only to such civil actions as were actions at lam, save, and except, Sections 68, 64, and 65, were made applicable to suits in equity, in so far as said sections do not conflict with said rules.
+And power was conferred upon the Supreme court, by proviso to Section 291, to prescribe the manner of taking appeals from decrees of the District court to the Supreme court of the territory. ' '
+This was so held by this court in Shockley vs. Brown, et al., December term, 1872. With this ruling we are satisfied.
+Under the laws in force, therefore, at the .time of the decree, in this cause, the defendant had the right of his appeal to this court, at any time, within two years from date of decree, that being the time fixed, by the laws of the United States, for an appeal from the Circuit to Supreme court of the United States. Revised Statutes United States, Section 1008.
+The writ of error, provided by the code of 1869, as amended in 1871, Section 432, was applicable to civil actions at law.
+The Supreme court of this Territory made rules, regulating the manner of such appeal; whether the party was bound to pursue the mode pointed out by the rules of this court, or the laws of the United States, which were adopted by our legislative assembly, is wholly immaterial, for, in any event, he, at once, after decree, acquired the right of having his case reexamined in'this court.
+But a short time after such decree, the legislature of this Territory repealed the law giving to him his right of appeal under the law as enacted in 1871, and by statutes of 1873, code, Section 2, it was declared that there -shall be but one form of action in this Territory of enforcement of private rights, which shall be called a civil action. That civil actions be commenced by complaint and summons (Code, Section 59.) That all forms of pleadings, heretofore existing in civil actions, be abolished, and hereafter the forms and rules for determining the sufficiency of pleadings be determined by the code, (Code, Section 70), and finally final judgments of the District courts, in all civil actions must be by writ of error. Code, Section 430.
+How the repeal of the code of 1869, as amended in 1871, took away from the plaintiff in error his right to have his case re-examined in this court, unless it be saved by Section 697-699, code of 1873.
+Section 697 provides that in actions already commenced, the pleadings had to form issues, the manner of procuring testimony, the examination of the parties, the time and rendition of judgment, and all proceedings shall conform to this act as far as practicable; and by Section 699, the rights acquired under existing laws shall not be affected.
+It has been held by this court that a writ of error is not a new action, but the continuation of the same action, which is but transferred to the Supreme court for review. Manning & Hawk vs. Montgomery, December term, 1873.
+Bor the purpose of appeal, the action is practically pending in the court below, until the time for appeal has expired.
+It is an action there commenced, and upon which final judgment has been rendered in the District court; but there pending for the purpose of an appeal to this court.
+It is not declared by Section 697 that in all cases commenced in District court and not there determined by that court, that the proceedings shall conform to the code of 1873, but all actions commenced, the proceedings to trial and judgment, and all proceedings; these will of course include proceedings after, as well as before judgment, and among many proceedings after judgment is that of bringing the cause to this court for re-examination.
+The Organic Act, section 9, provides that writs of error and appeals shall be allowed in all cases as prescribed by law, and the legislature no doubt intended to provide for all cases.
+It is not reasonable to hold that the object and purpose of Section 697-699 were to save all actions pending, including actions wherein judgment had been rendered in the District court, and the time for taking an appeal had not expired.
+Is it not perfectly practicable to make the appellate proceedings conform to the code of 1873?
+We think that the intention of the legislature is expressed in these Sections 697-699, to so apply the remedy.
+But it is insisted on the one hand that such ruling will make the law retrospective, and on the other, that such change of remedy will, to some extent, deprive the plaintiff in error of the full benefit of his appeal on the hearing in this court.
+It is well settled that courts will give laws retrospective operation when it is plain that the legislature so intended them, and this is a principle, says Sedgwick, which, though lost sight of in many cases, has been steadily adhered to. Sedg. Stat. Law, 190.
+And further it is competent for the legislature to pass acts retrospective in their character, notwithstanding their operation may be to affect pending suits, and to give a party rights he did not before possess, or to modify cm existing remedy. Ibid, 201.
+The effect of requiring chancery causes to be brought to this court by error, instead of appeal, was to modify the remedy existing at the time of the passage of the code of 1873.
+This code has been confirmed by act of congress so far as it authorizes a uniform mode of practice at law and in equity.
+The plaintiff in error, we think, has the right to bring his case to this court for review in accordance with the provisions -of code of 1873.
+It is apparent, from theiS papers on file in the cause, the affidavit for publication, order of publication, and other papers, that plaintiff in error was, when suit commenced, decree rendered and writ of error sued out, a non resident of this territory.
+We are of opinion that the disability specified in Section 430 of the code, was removed when he filed his precipe in the District court for a writ of error. It is fully apparent that he was, at no time, personally served with process, nor had he appeared in the action.
+That a writ of error will lie from a judgment by default, we entertain no doubt. This court exercised such jurisdiction, in the case of Manning & Hawk vs. Montgomery, and reversed a judgment by default, rendered in the court below.
+As to the point made that the writ is prosecuted in the name of one person, defendant only, our statute gives to any person, aggrieved, the right to prosecute the writ, if he be a party, or privy to the judgment (Code, Section 44), and if it shall appear that any other person should be made a party to the writ of error, this court can require such person to be made a party, and direct the manner of notice to bring him in. Code, Section 442.
+The motion to dismiss must be denied.
+
+## On the merits (Lewis, Chief Justice.)
+
+Opinion on merits, by
+Lewis, Chief Justice.
+The defendants in error on the 14th of November, 1872, filed their bill in equity in the clerk’s office? of the District court, of the Third Judicial District, at Seattle, against “ Abraham H. Garrison, plaintiff in error, Mary J. Moxlie, executrix of the estate of Eobert W. Moxlie, deceased, John A. Chase, Frank S., Elwood E., and Edward H. Plummer, minor heirs of Charles Plummer, deceased, by their guardian, L. B. Andrews, and Ida J. Plummer, minor heir of said Charles Plummer, deceased, by her guardian, Sarah J. Plummer,” defendants.
+It is alleged in the bill, that complainants are residents of the said Third Judicial District; that defendant Garrison is a resident of-, a citizen of tho State of Oregon; that Mary J. Moxlie, executrix, is a resident of Oregon; that the place of residence'of John A. Chase is unknown; and that the other defendants reside at Seattle, "Washington Territory.
+The bill is filed against defendants to compel a specific performance of a contract to convey real estate, situate in King county, W. T. Such contract is alleged to have been made by Bobert W. Moxlie, deceased, for Moxlie and Garrison as co-partners. The land at time of such contract belonging to Moxlie and Garrison as co-partners, who, as such, were at the time of sale doing a general business in lands and merchandise at Seattle.
+That Moxlie has since died, and by will, duly admitted to probate, devised all his lands to Sarah J. Moxlie, who was duly appointed as his executrix. •
+That plaintiff, Cheeney, is now, in equity, the owner of* said real estate.
+On the filing of the bill on 14th of November, 1872, L. B, Andrews, clerk of said court, and register, by his deputy, W. B. Andrews, duly issued a subpoena to the defendants, commanding them to appear, personally, before the judge of said court, on the first Monday in February, A. D. 1873, to answer the bill of complaint.
+The defendants were, by memorandum attached to subpoena, required to enter their appearance, on or before the first Monday in February, 1873, or.the bill would be taken jpro confesso.
+Indorsed on this subpoena, is the following, “We, the defendants, named in the within subpoena, admit service of the same, on us, individually, this 15th day of November,. 1872, at Seattle, King county, Washington Territory, and hereby waiver further notice or service upon us, or either of us:
+FRANK S. PLUMMER,
+IDA J. PLUMMER,
+ELWOOD H. PLUMMER,
+GEORGE W. HARRIS,
+EDWARD H. PLUMMER.
+This 14 of August, 1873.
+SARAH J. PLUMMER, Guardian.
+Guardian of Ida J. Plummer, Frank S., Elwood E., and Edward H. Plummer.
+No personal service of subpoena was made on Garrison or Moxlie, executrix.
+On the 14 November, 1872, Oheeney, one of the complainants, made an affidavit which was subscribed and sworn to before W. W. Theobalds, master in chancery, setting out that . Garrison, one of defendants, resides out of the Territory, and is a citizen of Oregon, but his place of residence is unknown; that Mary J. Moxlie, executrix, is a resident of Oregon; that a bill was duly filed November 14th, 1872; that a cause of action exists, which is fully stated that Garrison and the heirs and representatives of Moxlie, deceased, are property holders within Bang county.
+The judge of the Third Judicial District, at Seattle, upon reading and filing the said affidavit made an order wherein it is recited, that such affidavit was filed, and it satisfactorily appearing therefrom to the said judge:
+“That Abraham H. Garrison resides out of this Territory; that Mary J. Moxlie, executrix, resides out of this Territory; that a cause of action or suit in • equity exists in this suit in favor of the parties plaintiff, of whom Garrison and Mary J. Moxlie, executrix, are proper parties defendant thereto.
+“It is ordered that the service of subpoena be made upon defendants, Garrison and Mary J. Moxlie, executrix, by publication thereof in the Intelligencer, a newspaper published at the city of Seattle, King county, aforesaid, hereby designated as the newspaper most likely to give notice to said defendants; that such publication be made at least once a week for six weeks.”
+On the 15th day of February, 1873, an affidavit of publication of subpoena was made before S. F. Coombs, a Notary Public, by S. L. Maxwell, printer and publisher of the Weekly Intelligencer, a weekly paper of news published at Seattle, King county, Washington Territory, and that the notice of which the annexed is a true copy, has been published in said newspaper, weekly, for six successive weeks, commencing on the 18th of November, A. D., 1872, and ending the 23d day of November, A. D., 1872. The copy of the notice attached is the subpoena.
+On 18 February, 1873, at February term of said court, an order was entered, reciting that the subpoana, having been duly served by publication, the affidavit and order of court having been previously filed and duly returned, and no appearance having been entered on part of the said defendants or plea or answer filed, it is ordered that the bill herein be taken gyro confesso as to said defendants.
+A final decree was entered at August term, 1873, of said court in said cause, reciting among other things the order gyro confesso at February term, 1873, “and that the court on consideration doth order and decree that the said bill be taken for confessed,” and thereupon findings and decree are for complainants.
+The plaintiff in error, Garrison, hath prosecuted this writ of error to reverse the judgment and decree of the District court.
+Nine errors are assigned in the precipe.
+The first and ninth are the only ones necessary for our consideration in the determination of this cause.
+They are, substantially, ,as follows.
+1. That the order of publication made by the judge directs subpoena to be published in a newspaper called the Intelligencer, and it appears by the record that such publication was made in a newspaper called the Weekly Intelligencer.
+9. The said decree is absolutely void for want of service of process upon A. H. Garrison, Mary J. Moxlie and John A. Chase.
+These errors both go to the jurisdiction of the District court.
+The objection that “ the court has not jurisdiction can be made at any stage of the proceeding, either in the District or Supreme courts.” Civil Practice Act, 1873, Section 78.
+“ If there was no good service on the defendant the court had acquired no jurisdiction of the person, and the judgment rendered was void and must be reversed.” Montgomerg vs. Manning & Hawk, July term, 1874 of this court. See also Boswell Lessees vs. Otis, 9 H., 336.
+This suit was commenced and prosecuted to judgment under the Civil Practice Act of 1869, as amended in 1871.
+These amendments of 1871 made an entire change in our system of practice, and are as follows:
+Section 2. “All common law forms of action are hereby' abolished, but the distinction between actions at law and suits in chancery shall be preserved; and pleadings and proceedings in actions at law shall be as prescribed in this act\ and pleadings and proceedings in suits in chancery shall be as prescribed by the laws of the United States, and by the rules prescribed by the Supreme court of the United States, for courts of equity of the United States.”
+Section 66. “The writ of subpoena, in chancery, may also be served by the sheriff and his deputy, as well as by the persons authorized by the rules in equity, and Sections 63, 64, and’ 65 shall apply to- suits in equity, in so fare as said sections do not conflict with said rules.”
+•By the provisions, above cited, our legislature adopted the laws of the United States and the chancery rules of the United' States courts, as the law and practice in the courts of this Territory, in equity causes, with the modifications stated in Section 66.
+In order, therefore, to determine what portion, if any, of ^Sections 63, 64, and 65 are applicable to suits in chancery, it is necessary to examine, and ascertain, if the 'provisions of these sections, in any manner, conflict with the equity rules.
+Section 63 provides: “That when the person on whom the service is to be made, has property within the Territory, but resides out of the Territory * * and the eaot shall appewr by affidavit, to the satisfaction of the court or judge thereof, * * and it shall, in like manner, appear, that a cause of action exists against the defendant, in respect to whom service is made, ■such court or judge ma/y grant an order, that the service be made by the publication of the summons.”
+“Section 64. The order shall direct the publication to be made in a newspaper to be designated. * * The service of the summons shall be deemed complete in 20 days after the last day of publication prescribed in the order for publication.” .
+It is not necessary for the purposes of this case to discuss the provisions of Section 65 of the Practice Act.
+Jt will be noticed that Section 68 of Practice Act, which provides the mode of making proof of service, was not made applicable to suits in chancery.
+The object and purpose of Sections 63 and 64 of the Practice Act of 1871, was to provide for making service of summons on persons who reside out of the Territory * * and have property within the Territory. •
+On the subject of service, the equity rules of the United States courts provide as follows:
+“ Bule 13. The service of all subpoenas shall be by a delivery of a copy thereof, by the officer serving the same to the defendant personally, * * or by leaving a copy thereof at the dwelling house or usual place of abode of each defendant, with some free white person who is a member or resident in,the family.
+“ Bule 15. The service of all process * shall be by the marshal of the district or his deputy, or by some other person specially appointed by the court for that purpose and not otherwise.
+“Bule 16. Upon the return of the subpoena as served and executed upon any defendant, the clerk shall enter the suit upon his docket as pending in the court.”
+Bo provision, whatever, has been made by the equity rules for service upon a defendant, residing without the district, in fact, no such service can be made, for the declaration of rule 13 is, that the service shall be on defendant, personally.
+The reason of the rule is apparent: The Judiciary Aet provided, “ that no civil suit shall be brought, in either the circuit or district-court, against an inhabitant of the United States, by any original process, in any other district than that whereof he is an inhabitant, or in which he shall be found, at the time of serving the writ.”
+And the act of 1839 provided, that when there are several defendants in any suit, at law, or in equity, and one or more of them, are neither inhabitants of, nor found within the district in which the suit is brought, and do not voluntarily appear, the court may entertain jurisdiction, and proceed to the trial of the suit between the parties who are properly before it; but the judgment or decree, rendered therein, shall not conclude or prejudice other parties, not regula/rl/y served with process, nor voluntarily appearing to answer.
+The equity rules were based upon these laws, and are in accord with them, and rule 47 conforms exactly with the latter statute.
+At the time of the enactment of our Practice Act of 1871, there was no law of the United States, authorizing service of process upon any non resident defendant, by publication; it was not until the act of Congress, June, 1872, that service could be so made.
+It follows, therefore, that at the time of the passage of the Practice Act of 1871, Sections 63 and 64 were in direct conflict, not only, with the laws of the United States, which were adopted by the legislature, but also, in conflict with the equity rules, which required that personal service be made in all cases.
+In accordance therefore with the provisions of Section 66, code of 1871, Sections 63 and 64 of that code, were not applicable in “suits in chancery,” because they were in conflict with the equity rules of the United States courts.
+It follows that service of process could not then be made, unless under the provisions of the act of Congress of June, 1872.
+But was the act of June, 1872, applicable to suits in chancery within this Territory?
+The language of Section 2, code of 1871, is that “the pleadings and proceedings in suits in chancery shall be as prescribed by the laws of the United States.” * *
+The act of Congress of June, 1872, was not then in'force; was it the intent of our legislature to adopt the laws of the United States then existing, or to make the equity practice of the Territory conform to that of the United States courts, in case other laws should be passed on the subject?
+For the purposes of this case it is not necessary to determine this point, but we may conclude that the act of June, 1872., was applicable in our courts.
+This provides “that when any defendant in any suit in equity, to enforce any equitable lien or claim against real property, * within the district where the suit is brought, is not an inhabitant of, nor found within the district, it shall be lawful for the court to make an order directing such absent defendant to appear, plead, answer or demur to complainant’s bill at a certain day therein to be designated, and said order shall be served on such absent defendant, if practicable, wherever found, or where such personal service is not practicable, shall be published in such manner as the court shall direct.”
+The principle was ingrafted in our national constitution by the fifth amendment thereof: “That no person should be deprived of his property without due process of law, and for the purpose of securing to the citizen his rights as therein guaranteed.” Courts have always given statutes which authorize constructive service by publication upon absent defendants, a strict construction.
+“Heprinciple is more vital to the administration, of justice. than that no man shall be condemned in his person, or property, without notice or an opportunity to make his defense, and every departure from this fundamental rule by a proceeding in rem in which a publication of a notice is substituted for service on the party, should be subjected to a strict legal scrutiny * the inquiry should be, have the requisites of the law been complied with so as to subject the property in controversy to the judgment of the court?
+If this cannot be answered in the affirmative, the proceedings of the court beyond their jurisdiction are void.” Boswell Lessee vs. Otis, Act. 9. H., 336.
+In a late case decided by the Supreme court of the United States this question as to service by publication has been ably -discussed and decided. In that case it is stated by the court: “ That whenever it appears from an inspection of the record of a court of general jurisdiction that the defendant, against whom a personal judgment or decree is rendered, was at the time of the alleged service, without the territorial limits of the court, and thus beyond the reach of its process, and that he never appeared in the action, the presumption of jwrisdiotion over his person ceases, and the burden of establishing the jurisdiction is cast upon the party who invokes the benefit or protection of the judgment or decree. * *
+“It is a rule, old as the law, and never more to be respected than now, that no one shall be personally bound until he has had his day in court, by which is meant, until he has been duly cited to appear, and has been afforded an opportunity to be heard.
+“Judgment, without such citation and opportunity, wants all the attributes of a judicial determination; it is judicial usurpation and oppression, and never can be upheld where justice is judicially administered.
+“When, therefore, by legislation of a state, constructive service °of process, by publication, is substituted, in place of personal citation, and the court, upon such service, is authorized to proceed against the person of an absent party, not a citizen of the state, nor found within it, every principle of justice exacts a strict and literal compliance with the statutory provisions, and such has been the ruling, we believe, of every state in the Union.” Galpin vs. Page, 18 Wall., 350.
+The foregoing decisions are exhaustive, and fully settle the law, as to service of process, by publication, in the United States courts, and such is the rule, doubtless, in all of the states.
+The statute of June, 1872, provides for the service of process in the cases named, on absent defendants, wherever found, that such service be personal; if it be practical to make such service, "otherwise, the service may be made by publication.
+The statute has not declared how such facts shall be made to appear to the court.
+We, however, see no objections to showing them by affidavit.
+The provisions of the statute must be strictly pursued, and the plaintiff must bring his case exactly within the provisions-of the statute, and the record must affirmatively show that he has so done. hTo presumptions as to the jurisdiction of the court over the person of the defendant can be indulged in.
+In the case before us it set out in the affidavit for publication that “the defendant resides out of this Territory; that he is a citizen of Oregon, and that afficmt does not know his place of residence;” and that defendant is a “property holder within the Territory.”
+The finding and order of the judge from the facts set out in the affidavit are: “That defendant resides out of this Territory, and that a cause of action exists in this suit in favor of the plaintiff and against the defendant, and it is ordered that service of the subpoena be made by publication.”
+There is no finding as to the place of residence of defendant, nor as to whether this was a suit to enforce a claim against real property of defendant — within the district; no order is 'made.“ directing defendant to appear, plead, answer or demur to-complainant’s bill a day certain.”
+There is no finding, or showing, that personal service on the defendant is not practicable. All of these things are, by law, required to exist, and hence the law must affirmatively show them before any service can be made, by publication.
+The law is mandatory, that personal service of the order to' appear must, if practicable, be made on defendant, wherever fowrud.
+The affidavit shows that he was, at the time, a citizen of Oregon.
+No efforts seem to have been made to find his place of residence within that State.
+It is not apparent that the order was even placed in the hands of the marshal of that district for service, and no-efforts seem to have been made by any one to make personal service of the order. We cannot presume that it was impracticable to make such service, in fact the presumption is that such service could have been made.
+The affidavit was sworn to before a master of chancery. We find no law or rule of court giving the master authority to administer oaths and certify affidavits in such cases.
+We are fully satisfied from an examination of this record that the District court had no jurisdiction of the defendant, Garrison, in this cause, and hence the judgment and decree as to him is void.
+Many other questions of interest have been ably presented by counsel for our consideration, which it is not deemed necessary to pass upon.
+The judgment and decree of the District court will be reversed and the cause remanded at the costs of the defendants in error.
